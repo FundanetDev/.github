@@ -1,23 +1,20 @@
 # Fundanet Development 🧬
 
-**Fundanet** builds software for clinical research management. Our tools support the full lifecycle of clinical trials — from data collection and parsing to regulatory compliance and study management — with a strong focus on European standards (EUCT / REEC).
+**Fundanet** is a clinical research management platform developed by [Semicrol](https://www.semicrol.com). It enables hospitals, universities, and research institutions to digitize and streamline the full lifecycle of clinical and biomedical research — from study planning and data management to regulatory compliance and scientific output tracking.
 
 ---
 
-## 🏗️ What We Build
+## 🔬 What We Do
 
-| Project | Description | Stack |
-|---|---|---|
-| **Fundanet Studio CTMS** | Clinical Trial Management System — core platform for managing clinical studies | Python · Blazor |
-| **Fundanet TrialPortal** | Web platform for listing and discovering clinical trials in the EU Clinical Trials Register (REEC/EUCT) | C# · ASP.NET |
-| **Fundanet ClinParse** | Parser and processor for clinical data | Python |
-| **Fundanet EconomicMemory.IA** | AI-assisted economic memory for research workflows | Python · HTML |
-| **Fundanet AI.Importer** | AI-powered data importer for clinical datasets | — |
-| **Fundanet StudyForge** | Study management and planning tooling | — |
-| **Fundanet TicketScan** | Mobile app for ticket/QR scanning at events and studies | Dart · Flutter |
-| **Fundanet WebComponents** | Shared TypeScript component library used across web products | TypeScript |
-| **Fundanet Database** | Central database schema and migration management | T-SQL |
-| **Fundanet Azure** | Azure infrastructure tooling and automation | Azure |
+Fundanet provides modular, web-based software solutions tailored to the needs of clinical research organizations:
+
+- **Clinical Trial Management (CTMS)** — end-to-end management of clinical studies, from setup and subject tracking to reporting and regulatory submissions.
+- **Research Project Management** — centralized oversight of research projects, milestones, and resources.
+- **EU Regulatory Compliance** — integration with the European Union Clinical Trials Register (EUCT / REEC) and support for Spanish national regulatory requirements.
+- **Interoperability** — integration with hospital electronic health record (EHR) systems and external research platforms for seamless, secure data exchange.
+- **Scientific Outputs** — management of publications, results, and knowledge transfer linked to research projects.
+- **AI-Assisted Workflows** — intelligent automation and data processing tools to support research operations.
+- **Cross-Platform Delivery** — accessible via web and mobile, designed for multicentric and multinational teams.
 
 ---
 
@@ -38,24 +35,11 @@
 
 ---
 
-## 🔬 Domain Focus
+## 🏢 About Semicrol
 
-- **Clinical Trial Management (CTMS)** — tools and workflows for managing the full study lifecycle
-- **EU Regulatory Compliance** — integration with the European Union Clinical Trials Register (EUCT / REEC)
-- **AI-Assisted Research** — AI/ML capabilities for data processing and knowledge management
-- **Cross-Platform Delivery** — web (Blazor, TypeScript), mobile (Flutter), and backend (C#, Python)
-- **Cloud Infrastructure** — Microsoft Azure for hosting, storage, and automation
+Semicrol is a software company headquartered in Santander, Cantabria (Spain), with international presence in Mexico and Colombia. With a strong commitment to R&D and digital transformation, Semicrol develops robust solutions for the healthcare, academic, and public sectors.
 
----
-
-## 📦 Repository Overview
-
-All repositories are private. The organization currently maintains **16 repositories** covering:
-- 🖥️ Web applications (Blazor, ASP.NET, TypeScript)
-- 📱 Mobile applications (Flutter / Dart)
-- 🐍 Data processing & AI tooling (Python)
-- 🗄️ Database schema management (T-SQL)
-- ☁️ Cloud infrastructure (Azure)
+🌐 [www.semicrol.com](https://www.semicrol.com)
 
 ---
 
